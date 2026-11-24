@@ -1,23 +1,30 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-24T11:41:44.770Z",
-  "projects": [],
+  "writtenAt": "2026-11-24T11:47:50.470Z",
+  "projects": [
+    {
+      "id": "helloshop-ai",
+      "name": "HelloShop AI",
+      "client": "",
+      "stage": "active",
+      "nextAction": "",
+      "context": "",
+      "createdAt": "2026-11-24T11:47:50.440Z",
+      "updatedAt": "2026-11-24T11:47:50.440Z"
+    },
+    {
+      "id": "clarity-index",
+      "name": "Clarity Index",
+      "client": "",
+      "stage": "active",
+      "nextAction": "",
+      "context": "",
+      "createdAt": "2026-11-24T11:47:50.452Z",
+      "updatedAt": "2026-11-24T11:47:50.452Z"
+    }
+  ],
   "tasks": [
-    {
-      "id": "t_6cb97ec3",
-      "title": "make two projects: helloshop ai and clarity index",
-      "status": "inbox",
-      "createdAt": "2026-11-24T11:40:41.673Z",
-      "updatedAt": "2026-11-24T11:40:41.673Z"
-    },
-    {
-      "id": "t_42f2760c",
-      "title": "make two projects: helloshop ai and clarity index",
-      "status": "inbox",
-      "createdAt": "2026-11-24T11:41:24.077Z",
-      "updatedAt": "2026-11-24T11:41:24.077Z"
-    },
     {
       "id": "t_ae974afc",
       "title": "make two projects: helloshop ai and clarity index",
@@ -27,5 +34,8 @@
     }
   ],
   "ideas": [],
-  "tombstones": {}
+  "tombstones": {
+    "t_6cb97ec3": "2026-11-24T11:47:50.461Z",
+    "t_42f2760c": "2026-11-24T11:47:50.470Z"
+  }
 }
