@@ -1,0 +1,6 @@
+
+state.json
+sync.json
+*.tmp
+devices/*.tmp
+.device-id
