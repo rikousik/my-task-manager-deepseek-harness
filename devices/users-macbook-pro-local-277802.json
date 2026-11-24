@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-24T11:47:50.470Z",
+  "writtenAt": "2026-11-24T11:50:14.768Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -31,6 +31,14 @@
       "status": "inbox",
       "createdAt": "2026-11-24T11:41:44.770Z",
       "updatedAt": "2026-11-24T11:41:44.770Z"
+    },
+    {
+      "id": "t_7c403523",
+      "project": "clarity-index",
+      "title": "probe task for the tool path",
+      "status": "inbox",
+      "createdAt": "2026-11-24T11:50:14.768Z",
+      "updatedAt": "2026-11-24T11:50:14.768Z"
     }
   ],
   "ideas": [],
