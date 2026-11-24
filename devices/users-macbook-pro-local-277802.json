@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-24T11:41:24.077Z",
+  "writtenAt": "2026-11-24T11:41:44.770Z",
   "projects": [],
   "tasks": [
     {
@@ -17,6 +17,13 @@
       "status": "inbox",
       "createdAt": "2026-11-24T11:41:24.077Z",
       "updatedAt": "2026-11-24T11:41:24.077Z"
+    },
+    {
+      "id": "t_ae974afc",
+      "title": "make two projects: helloshop ai and clarity index",
+      "status": "inbox",
+      "createdAt": "2026-11-24T11:41:44.770Z",
+      "updatedAt": "2026-11-24T11:41:44.770Z"
     }
   ],
   "ideas": [],
