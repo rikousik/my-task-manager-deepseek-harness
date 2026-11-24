@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-24T11:50:14.768Z",
+  "writtenAt": "2026-11-24T12:00:02.200Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -39,6 +39,14 @@
       "status": "inbox",
       "createdAt": "2026-11-24T11:50:14.768Z",
       "updatedAt": "2026-11-24T11:50:14.768Z"
+    },
+    {
+      "id": "t_94ccf17e",
+      "project": "clarity-index",
+      "title": "probe: tool path after reload",
+      "status": "inbox",
+      "createdAt": "2026-11-24T12:00:02.200Z",
+      "updatedAt": "2026-11-24T12:00:02.200Z"
     }
   ],
   "ideas": [],
