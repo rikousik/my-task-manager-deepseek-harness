@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T14:49:02.407Z",
+  "writtenAt": "2026-11-26T18:13:59.281Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -215,6 +215,14 @@
       "notes": "Big Fish have already sent their website design (roughly final) plus an idea for the direction. Build the site to that design and send it to them for review. Has been pending; not started.",
       "createdAt": "2026-11-26T08:48:49.874Z",
       "updatedAt": "2026-11-26T08:48:49.874Z"
+    },
+    {
+      "id": "t_44833b9c",
+      "title": "File a GD to get the bKash money back",
+      "status": "inbox",
+      "notes": "File a General Diary (GD) at the police station to recover money sent through bKash. Needed for the GD application: bKash transaction ID(s), amount and date, the recipient number, any bKash complaint/ticket number, and the police station where it will be filed. Not tied to a project yet — say which one if it belongs to one.",
+      "createdAt": "2026-11-26T18:13:59.280Z",
+      "updatedAt": "2026-11-26T18:13:59.280Z"
     }
   ],
   "ideas": [
