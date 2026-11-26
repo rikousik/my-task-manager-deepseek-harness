@@ -1,17 +1,17 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T07:08:45.550Z",
+  "writtenAt": "2026-11-26T07:11:49.746Z",
   "projects": [
     {
       "id": "helloshop-ai",
       "name": "HelloShop AI",
       "client": "",
       "stage": "active",
-      "nextAction": "Call the four new leads in order and confirm the sales, starting with Fatema Swarna.",
+      "nextAction": "Call HM Rafayet and confirm the sale (Fatema Swarna is awaiting a callback).",
       "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads to call and close — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday.\n\nOnboarding: Syed Aminul Islam Jamil — spoke with him the night of 2026-11-25. HelloShop team is to set up his business. He has already shared his page access, but access to his business/other accounts is still outstanding, so full setup is blocked until he sends it.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team.\n\nClient: Alishan Apu — existing HelloShop client, sells ebooks. Called 2026-11-26. Wants Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and our AI chatbot connected. All of it starts from ~2026-12-07; contact her again around that date to begin.",
       "createdAt": "2026-11-24T11:47:50.440Z",
-      "updatedAt": "2026-11-26T07:08:45.550Z"
+      "updatedAt": "2026-11-26T07:11:49.746Z"
     },
     {
       "id": "clarity-index",
@@ -49,23 +49,24 @@
       "id": "t_7a8ebccf",
       "project": "helloshop-ai",
       "title": "Call Fatema Swarna and confirm the sale (new lead)",
-      "status": "next",
+      "status": "waiting",
       "due": "2026-11-26",
       "estimate": "15m",
-      "notes": "New lead who came in today. Call order: 1 of 4.",
+      "notes": "Called 2026-11-26 — she did not pick up. Sent her a WhatsApp message asking her to call back when she is free. Call order: 1 of 4.",
       "createdAt": "2026-11-26T07:04:12.244Z",
-      "updatedAt": "2026-11-26T07:04:12.244Z"
+      "updatedAt": "2026-11-26T07:11:46.287Z",
+      "waitingOn": "Fatema Swarna — call back after WhatsApp message"
     },
     {
       "id": "t_1ad98fd7",
       "project": "helloshop-ai",
       "title": "Call HM Rafayet and confirm the sale (new lead)",
-      "status": "inbox",
+      "status": "next",
       "due": "2026-11-26",
       "estimate": "15m",
       "notes": "New lead who came in today. Call order: 2 of 4 (after Fatema Swarna).",
       "createdAt": "2026-11-26T07:04:12.264Z",
-      "updatedAt": "2026-11-26T07:04:12.264Z"
+      "updatedAt": "2026-11-26T07:11:46.296Z"
     },
     {
       "id": "t_203a90ea",
