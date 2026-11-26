@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T08:05:13.991Z",
+  "writtenAt": "2026-11-26T08:07:09.611Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -171,9 +171,20 @@
       "project": "helloshop-ai",
       "title": "Build Ashraful bhai's dairy business online end to end: Facebook page, content plan, video edits, ad campaigns, and HelloShop chatbot",
       "status": "inbox",
-      "notes": "HelloShop client. Owns a dairy shop and a dairy farm, sells milk; now wants to sell ghee and cheese online. He does not understand Facebook, so we do all of it end to end. Ordered scope: (1) open his Facebook page, (2) content plan, (3) video editing, (4) Facebook ad campaigns, (5) HelloShop AI chatbot automation. Spoke with him on WhatsApp 2026-11-26.",
+      "notes": "HelloShop client. Owns a dairy shop and a dairy farm, sells milk; now wants to sell ghee and cheese online. He does not understand Facebook, so we do all of it end to end. Status 2026-11-26: added him to a WhatsApp group, but work has not started yet — the team still needs to be briefed and kick it off. Ordered scope: (1) open his Facebook page, (2) content plan, (3) video editing, (4) Facebook ad campaigns, (5) HelloShop AI chatbot automation. Spoke with him on WhatsApp 2026-11-26.",
       "createdAt": "2026-11-26T08:05:13.980Z",
-      "updatedAt": "2026-11-26T08:05:13.980Z"
+      "updatedAt": "2026-11-26T08:07:09.604Z"
+    },
+    {
+      "id": "t_913f8df4",
+      "project": "helloshop-ai",
+      "title": "Instruct the HelloShop team to start Ashraful bhai's dairy work",
+      "status": "inbox",
+      "due": "2026-11-26",
+      "estimate": "20m",
+      "notes": "Ashraful bhai is already in the WhatsApp group (added 2026-11-26), but no work has started. Brief the team so they begin with his Facebook page, then the content plan and the rest of the scope.",
+      "createdAt": "2026-11-26T08:07:09.611Z",
+      "updatedAt": "2026-11-26T08:07:09.611Z"
     }
   ],
   "ideas": [],
