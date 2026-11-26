@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T08:10:33.655Z",
+  "writtenAt": "2026-11-26T08:11:52.670Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -85,9 +85,9 @@
       "status": "inbox",
       "due": "2026-11-26",
       "estimate": "15m",
-      "notes": "New lead who came in today. Call order: 4 of 4 (last).",
+      "notes": "Called 2026-11-26 (attempt 1) — his line was busy, likely talking to someone. Call him again later. Call order: 4 of 4.",
       "createdAt": "2026-11-26T07:04:12.282Z",
-      "updatedAt": "2026-11-26T07:04:12.282Z"
+      "updatedAt": "2026-11-26T08:11:52.670Z"
     },
     {
       "id": "t_a6535379",
