@@ -1,17 +1,17 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T07:11:49.746Z",
+  "writtenAt": "2026-11-26T07:18:42.593Z",
   "projects": [
     {
       "id": "helloshop-ai",
       "name": "HelloShop AI",
       "client": "",
       "stage": "active",
-      "nextAction": "Call HM Rafayet and confirm the sale (Fatema Swarna is awaiting a callback).",
-      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads to call and close — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday.\n\nOnboarding: Syed Aminul Islam Jamil — spoke with him the night of 2026-11-25. HelloShop team is to set up his business. He has already shared his page access, but access to his business/other accounts is still outstanding, so full setup is blocked until he sends it.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team.\n\nClient: Alishan Apu — existing HelloShop client, sells ebooks. Called 2026-11-26. Wants Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and our AI chatbot connected. All of it starts from ~2026-12-07; contact her again around that date to begin.",
+      "nextAction": "Call HM Rafayet and confirm the sale.",
+      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday. Status: Swarna called, no answer, WhatsApp sent, awaiting her callback. Raju reached on WhatsApp — his cosmetics business is in Noakhali, he will tell us later when he will take the service. Rafayet and Hriday still to call.\n\nOnboarding: Syed Aminul Islam Jamil — spoke with him the night of 2026-11-25. HelloShop team is to set up his business. He has already shared his page access, but access to his business/other accounts is still outstanding, so full setup is blocked until he sends it.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team.\n\nClient: Alishan Apu — existing HelloShop client, sells ebooks. Called 2026-11-26. Wants Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and our AI chatbot connected. All of it starts from ~2026-12-07; contact her again around that date to begin.",
       "createdAt": "2026-11-24T11:47:50.440Z",
-      "updatedAt": "2026-11-26T07:11:49.746Z"
+      "updatedAt": "2026-11-26T07:18:42.593Z"
     },
     {
       "id": "clarity-index",
@@ -72,12 +72,12 @@
       "id": "t_203a90ea",
       "project": "helloshop-ai",
       "title": "Call MD Raju and confirm the sale (new lead)",
-      "status": "inbox",
-      "due": "2026-11-26",
+      "status": "waiting",
       "estimate": "15m",
-      "notes": "New lead who came in today. Call order: 3 of 4 (after HM Rafayet).",
+      "notes": "Reached on WhatsApp (2026-11-26). His cosmetics business is in Noakhali. He said he will let us know later when he wants to take the service. Call order: 3 of 4.",
       "createdAt": "2026-11-26T07:04:12.272Z",
-      "updatedAt": "2026-11-26T07:04:12.272Z"
+      "updatedAt": "2026-11-26T07:18:42.580Z",
+      "waitingOn": "MD Raju — will say later when he takes the service"
     },
     {
       "id": "t_1496f6b4",
