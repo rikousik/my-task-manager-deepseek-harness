@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-24T12:13:16.961Z",
+  "writtenAt": "2026-11-26T06:58:47.968Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -18,13 +18,24 @@
       "name": "Clarity Index",
       "client": "",
       "stage": "active",
-      "nextAction": "",
-      "context": "",
+      "nextAction": "Build the X + LinkedIn news-pull extension that publishes to Clarity Index and auto-posts published links to X and LinkedIn with captioned images.",
+      "context": "Owner: Kousik. Active project. Current build: a browser extension that runs on a schedule, pulls the latest relevant project news from X (Twitter) and LinkedIn, refreshes/publishes those items on the Clarity Index platform, and posts the published links back out to the project's X and LinkedIn accounts with captioned photos. Distribution targets: X and LinkedIn only. Not Meta/Instagram.",
       "createdAt": "2026-11-24T11:47:50.452Z",
-      "updatedAt": "2026-11-24T11:47:50.452Z"
+      "updatedAt": "2026-11-26T06:58:47.968Z"
     }
   ],
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "t_5a877f0e",
+      "project": "clarity-index",
+      "title": "Build a browser extension that polls X and LinkedIn for the latest Clarity Index-relevant news, publishes/refreshes those items on the Clarity Index platform, then posts each published link to the project's X and LinkedIn accounts with a captioned photo.",
+      "status": "next",
+      "estimate": "2-3d",
+      "notes": "Pipeline of three stages: (1) periodic news pull from X/Twitter and LinkedIn, (2) publish + refresh on Clarity Index platform, (3) auto-share published link to X and LinkedIn with a captioned image. Sources are X and LinkedIn (not Meta/Instagram). Open inputs: definition of \"relevant\" project news, Clarity Index publish endpoint/API, and API access for posting.",
+      "createdAt": "2026-11-26T06:58:47.953Z",
+      "updatedAt": "2026-11-26T06:58:47.953Z"
+    }
+  ],
   "ideas": [],
   "tombstones": {
     "t_6cb97ec3": "2026-11-24T11:47:50.461Z",
