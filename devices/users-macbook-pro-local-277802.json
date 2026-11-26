@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T08:07:09.611Z",
+  "writtenAt": "2026-11-26T08:09:24.348Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -64,9 +64,9 @@
       "status": "next",
       "due": "2026-11-26",
       "estimate": "15m",
-      "notes": "New lead who came in today. Call order: 2 of 4 (after Fatema Swarna).",
+      "notes": "Called 2026-11-26 (attempt 1) — he did not pick up. Call him again; no WhatsApp callback request was sent yet. Call order: 2 of 4.",
       "createdAt": "2026-11-26T07:04:12.264Z",
-      "updatedAt": "2026-11-26T07:11:46.296Z"
+      "updatedAt": "2026-11-26T08:09:24.348Z"
     },
     {
       "id": "t_203a90ea",
