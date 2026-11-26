@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T07:18:42.593Z",
+  "writtenAt": "2026-11-26T07:21:19.396Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -9,9 +9,9 @@
       "client": "",
       "stage": "active",
       "nextAction": "Call HM Rafayet and confirm the sale.",
-      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday. Status: Swarna called, no answer, WhatsApp sent, awaiting her callback. Raju reached on WhatsApp — his cosmetics business is in Noakhali, he will tell us later when he will take the service. Rafayet and Hriday still to call.\n\nOnboarding: Syed Aminul Islam Jamil — spoke with him the night of 2026-11-25. HelloShop team is to set up his business. He has already shared his page access, but access to his business/other accounts is still outstanding, so full setup is blocked until he sends it.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team.\n\nClient: Alishan Apu — existing HelloShop client, sells ebooks. Called 2026-11-26. Wants Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and our AI chatbot connected. All of it starts from ~2026-12-07; contact her again around that date to begin.",
+      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday. Status: Swarna called, no answer, WhatsApp sent, awaiting her callback. Raju reached on WhatsApp — his cosmetics business is in Noakhali, he will tell us later when he will take the service. Rafayet and Hriday still to call.\n\nAlso in the pipeline: Tanim Fashion (Tanim) — called 2026-11-26, no answer; retry or WhatsApp needed.\n\nOnboarding: Syed Aminul Islam Jamil — spoke with him the night of 2026-11-25. HelloShop team is to set up his business. He has already shared his page access, but access to his business/other accounts is still outstanding, so full setup is blocked until he sends it.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team.\n\nClient: Alishan Apu — existing HelloShop client, sells ebooks. Called 2026-11-26. Wants Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and our AI chatbot connected. All of it starts from ~2026-12-07; contact her again around that date to begin.",
       "createdAt": "2026-11-24T11:47:50.440Z",
-      "updatedAt": "2026-11-26T07:18:42.593Z"
+      "updatedAt": "2026-11-26T07:21:19.396Z"
     },
     {
       "id": "clarity-index",
@@ -143,6 +143,17 @@
       "notes": "Phone call already done (2026-11-26). Alishan Apu is a HelloShop client. From ~2026-12-07 she starts: Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and connecting our AI chatbot. She mainly sells ebooks. Follow up with her around December 7 to kick all of this off.",
       "createdAt": "2026-11-26T07:08:45.538Z",
       "updatedAt": "2026-11-26T07:08:45.538Z"
+    },
+    {
+      "id": "t_db55f6e0",
+      "project": "helloshop-ai",
+      "title": "Call Tanim of Tanim Fashion and confirm the sale (no answer on first call)",
+      "status": "inbox",
+      "due": "2026-11-26",
+      "estimate": "15m",
+      "notes": "Called 2026-11-26 for Tanim Fashion — he did not pick up. Needs a retry call or a WhatsApp message, same as the other leads.",
+      "createdAt": "2026-11-26T07:21:12.523Z",
+      "updatedAt": "2026-11-26T07:21:12.523Z"
     }
   ],
   "ideas": [],
