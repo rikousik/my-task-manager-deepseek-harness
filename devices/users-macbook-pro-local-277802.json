@@ -1,17 +1,17 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T06:58:47.968Z",
+  "writtenAt": "2026-11-26T07:04:17.480Z",
   "projects": [
     {
       "id": "helloshop-ai",
       "name": "HelloShop AI",
       "client": "",
       "stage": "active",
-      "nextAction": "",
-      "context": "",
+      "nextAction": "Call the four new leads in order and confirm the sales, starting with Fatema Swarna.",
+      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads to call and close — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday.\n\nOnboarding: Syed Aminul Islam Jamil — spoke with him the night of 2026-11-25. HelloShop team is to set up his business. He has already shared his page access, but access to his business/other accounts is still outstanding, so full setup is blocked until he sends it.",
       "createdAt": "2026-11-24T11:47:50.440Z",
-      "updatedAt": "2026-11-24T11:47:50.440Z"
+      "updatedAt": "2026-11-26T07:04:17.480Z"
     },
     {
       "id": "clarity-index",
@@ -34,6 +34,71 @@
       "notes": "Pipeline of three stages: (1) periodic news pull from X/Twitter and LinkedIn, (2) publish + refresh on Clarity Index platform, (3) auto-share published link to X and LinkedIn with a captioned image. Sources are X and LinkedIn (not Meta/Instagram). Open inputs: definition of \"relevant\" project news, Clarity Index publish endpoint/API, and API access for posting.",
       "createdAt": "2026-11-26T06:58:47.953Z",
       "updatedAt": "2026-11-26T06:58:47.953Z"
+    },
+    {
+      "id": "t_7a8ebccf",
+      "project": "helloshop-ai",
+      "title": "Call Fatema Swarna and confirm the sale (new lead)",
+      "status": "next",
+      "due": "2026-11-26",
+      "estimate": "15m",
+      "notes": "New lead who came in today. Call order: 1 of 4.",
+      "createdAt": "2026-11-26T07:04:12.244Z",
+      "updatedAt": "2026-11-26T07:04:12.244Z"
+    },
+    {
+      "id": "t_1ad98fd7",
+      "project": "helloshop-ai",
+      "title": "Call HM Rafayet and confirm the sale (new lead)",
+      "status": "inbox",
+      "due": "2026-11-26",
+      "estimate": "15m",
+      "notes": "New lead who came in today. Call order: 2 of 4 (after Fatema Swarna).",
+      "createdAt": "2026-11-26T07:04:12.264Z",
+      "updatedAt": "2026-11-26T07:04:12.264Z"
+    },
+    {
+      "id": "t_203a90ea",
+      "project": "helloshop-ai",
+      "title": "Call MD Raju and confirm the sale (new lead)",
+      "status": "inbox",
+      "due": "2026-11-26",
+      "estimate": "15m",
+      "notes": "New lead who came in today. Call order: 3 of 4 (after HM Rafayet).",
+      "createdAt": "2026-11-26T07:04:12.272Z",
+      "updatedAt": "2026-11-26T07:04:12.272Z"
+    },
+    {
+      "id": "t_1496f6b4",
+      "project": "helloshop-ai",
+      "title": "Call Rahman Hriday and confirm the sale (new lead)",
+      "status": "inbox",
+      "due": "2026-11-26",
+      "estimate": "15m",
+      "notes": "New lead who came in today. Call order: 4 of 4 (last).",
+      "createdAt": "2026-11-26T07:04:12.282Z",
+      "updatedAt": "2026-11-26T07:04:12.282Z"
+    },
+    {
+      "id": "t_a6535379",
+      "project": "helloshop-ai",
+      "title": "Ask Syed Aminul Islam Jamil for access to the remaining business accounts",
+      "status": "inbox",
+      "due": "2026-11-26",
+      "estimate": "10m",
+      "notes": "Talked with him last night (2026-11-25). He has already given access to his page, but we still have not received access to the business/other accounts. HelloShop team will set up his business once access is complete.",
+      "createdAt": "2026-11-26T07:04:12.289Z",
+      "updatedAt": "2026-11-26T07:04:12.289Z"
+    },
+    {
+      "id": "t_bbbe1432",
+      "project": "helloshop-ai",
+      "title": "Set up Syed Aminul Islam Jamil's business with the HelloShop team",
+      "status": "waiting",
+      "waitingOn": "Syed Aminul Islam Jamil — remaining business account access",
+      "notes": "Blocked until he hands over access to all business/other accounts. Page access is already in hand, so setup can start on the page but not complete across his accounts.",
+      "createdAt": "2026-11-26T07:04:12.296Z",
+      "updatedAt": "2026-11-26T07:04:12.296Z"
     }
   ],
   "ideas": [],
