@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T08:48:49.874Z",
+  "writtenAt": "2026-11-26T14:36:13.597Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -9,9 +9,9 @@
       "client": "",
       "stage": "active",
       "nextAction": "Call HM Rafayet and confirm the sale.",
-      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday. Status: Swarna reached on WhatsApp — she sells from her personal profile, not a page, so no chatbot can be connected; she will contact us after she creates a Facebook page. Raju reached on WhatsApp — his cosmetics business is in Noakhali, he will tell us later when he will take the service. Rafayet called, no answer, needs a retry. Hriday reached on the third attempt — he was busy and asked to be called after 8pm today.\n\nOther calls (2026-11-26): Tanim Fashion (Tanim) — no answer, retry or WhatsApp needed. Nur Islam Shop (Nur Islam) — phone switched off, retry later.\n\nOnboarding: Syed Aminul Islam Jamil — spoke with him the night of 2026-11-25. HelloShop team is to set up his business. He has already shared his page access, but access to his business/other accounts is still outstanding, so full setup is blocked until he sends it.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team. A recurring blocker: some leads sell from a personal profile and have no page at all, so page creation is the prerequisite for the chatbot, not an optional extra.\n\nClient: Alishan Apu — existing HelloShop client, sells ebooks. Called 2026-11-26. Wants Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and our AI chatbot connected. All of it starts from ~2026-12-07; contact her again around that date to begin.\n\nClient: Ashraful bhai — dairy shop plus dairy farm, sells milk; wants to sell ghee and cheese online. Reached on WhatsApp 2026-11-26; added to a WhatsApp group. He does not understand Facebook, so we deliver the whole stack: open his Facebook page, content plan, video editing, Facebook ad campaigns, then HelloShop AI chatbot automation. Work has not started yet; the team still needs the kickoff briefing.\n\nClient: City Online — their customers cannot use the location-cover app we built for them, so we owe them a tutorial video on using that app, delivered over Messenger.",
+      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday. Status: Swarna reached on WhatsApp — she sells from her personal profile, not a page, so no chatbot can be connected; she will contact us after she creates a Facebook page. Raju reached on WhatsApp — his cosmetics business is in Noakhali, he will tell us later when he will take the service. Rafayet called, no answer, needs a retry. Hriday reached on the third attempt — he was busy and asked to be called after 8pm today.\n\nOther calls (2026-11-26): Tanim Fashion (Tanim) — no answer, retry or WhatsApp needed. Nur Islam Shop (Nur Islam) — phone switched off, retry later.\n\nSyed Aminul Islam Jamil — potential client (per Kousik, 2026-11-26). Spoke with him; he was at the thana and said he would talk properly once free, and asked to be contacted on WhatsApp. Page access is already in hand; access to his business/other accounts is still outstanding. The HelloShop team is to set up his business once access is complete.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team. A recurring blocker: some leads sell from a personal profile and have no page at all, so page creation is the prerequisite for the chatbot, not an optional extra.\n\nClient: Alishan Apu — existing HelloShop client, sells ebooks. Called 2026-11-26. Wants Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and our AI chatbot connected. All of it starts from ~2026-12-07; contact her again around that date to begin.\n\nClient: Ashraful bhai — dairy shop plus dairy farm, sells milk; wants to sell ghee and cheese online. Reached on WhatsApp 2026-11-26; added to a WhatsApp group. He does not understand Facebook, so we deliver the whole stack: open his Facebook page, content plan, video editing, Facebook ad campaigns, then HelloShop AI chatbot automation. Work has not started yet; the team still needs the kickoff briefing.\n\nClient: City Online — their customers cannot use the location-cover app we built for them, so we owe them a tutorial video on using that app, delivered over Messenger.",
       "createdAt": "2026-11-24T11:47:50.440Z",
-      "updatedAt": "2026-11-26T08:28:53.122Z"
+      "updatedAt": "2026-11-26T14:36:13.597Z"
     },
     {
       "id": "clarity-index",
@@ -106,9 +106,9 @@
       "status": "inbox",
       "due": "2026-11-26",
       "estimate": "10m",
-      "notes": "Talked with him last night (2026-11-25). He has already given access to his page, but we still have not received access to the business/other accounts. HelloShop team will set up his business once access is complete.",
+      "notes": "Spoke with him on 2026-11-26. He is at the thana (police station) right now and said he will talk properly once he is free. Reach him on WhatsApp — that is the channel he asked for. When he is free, ask for access to his remaining business accounts (page access is already in hand). He is a potential client.",
       "createdAt": "2026-11-26T07:04:12.289Z",
-      "updatedAt": "2026-11-26T07:04:12.289Z"
+      "updatedAt": "2026-11-26T14:36:13.584Z"
     },
     {
       "id": "t_bbbe1432",
