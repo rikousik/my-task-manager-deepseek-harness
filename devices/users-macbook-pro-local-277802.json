@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T08:28:53.122Z",
+  "writtenAt": "2026-11-26T08:48:49.874Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -32,6 +32,16 @@
       "context": "Setup fully completed as of 2026-11-26. Next gate before going further: proper testing run by the team. Kousik owns the testing call.",
       "createdAt": "2026-11-26T07:07:44.329Z",
       "updatedAt": "2026-11-26T07:07:44.329Z"
+    },
+    {
+      "id": "big-fish",
+      "name": "Big Fish",
+      "client": "",
+      "stage": "active",
+      "nextAction": "Build the Big Fish website to their provided design and show it to them.",
+      "context": "Client: Big Fish. They have already shared their website design (roughly settled) and an idea for the direction. Work: build the website to match that design and send it back to them. Pending as of 2026-11-26; the build has not started.",
+      "createdAt": "2026-11-26T08:48:45.246Z",
+      "updatedAt": "2026-11-26T08:48:45.245Z"
     }
   ],
   "tasks": [
@@ -194,6 +204,16 @@
       "notes": "City Online is a HelloShop client. Their own customers cannot properly use the location-cover app we built, so we need an instructional / tutorial video showing how to use it. Delivery: send the video to them over Messenger. Open inputs: app name and flow, whether the video needs Bangla voiceover, and what exactly customers get wrong.",
       "createdAt": "2026-11-26T08:12:38.904Z",
       "updatedAt": "2026-11-26T08:12:38.904Z"
+    },
+    {
+      "id": "t_f3d0c949",
+      "project": "big-fish",
+      "title": "Build the Big Fish website to their design and send it to them",
+      "status": "next",
+      "estimate": "3-5d",
+      "notes": "Big Fish have already sent their website design (roughly final) plus an idea for the direction. Build the site to that design and send it to them for review. Has been pending; not started.",
+      "createdAt": "2026-11-26T08:48:49.874Z",
+      "updatedAt": "2026-11-26T08:48:49.874Z"
     }
   ],
   "ideas": [
