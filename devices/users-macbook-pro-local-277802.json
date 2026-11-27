@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-27T07:59:45.816Z",
+  "writtenAt": "2026-11-27T08:01:19.761Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -28,10 +28,10 @@
       "name": "TrendBroBD",
       "client": "",
       "stage": "active",
-      "nextAction": "Run proper testing of the TrendBroBD setup with the team.",
-      "context": "Setup fully completed as of 2026-11-26. Next gate before going further: proper testing run by the team. Kousik owns the testing call.",
+      "nextAction": "Fix the TrendBroBD testing issues, then connect the client today.",
+      "context": "TrendBroBD client. Setup is complete and the team's testing pass is done. Testing surfaced several problems, which must be fixed before the client is connected — all of it due 2026-11-27. Kousik owns the fix and handover.",
       "createdAt": "2026-11-26T07:07:44.329Z",
-      "updatedAt": "2026-11-26T07:07:44.329Z"
+      "updatedAt": "2026-11-27T08:01:19.761Z"
     },
     {
       "id": "big-fish",
@@ -125,12 +125,13 @@
       "id": "t_1c541f2b",
       "project": "trendbrobd",
       "title": "Run proper testing of the TrendBroBD setup with the team",
-      "status": "next",
+      "status": "done",
       "due": "2026-11-26",
       "estimate": "2h",
-      "notes": "Setup is already fully done (2026-11-26). This is the proper test pass with the team before moving on.",
+      "notes": "Testing was carried out with the team and is done. The setup had already been completed; testing surfaced several problems, which are now tracked as a separate fix task due today.",
       "createdAt": "2026-11-26T07:07:51.449Z",
-      "updatedAt": "2026-11-26T07:07:51.449Z"
+      "updatedAt": "2026-11-27T08:01:14.104Z",
+      "doneAt": "2026-11-27T08:01:14.104Z"
     },
     {
       "id": "t_fbec7c47",
@@ -296,6 +297,17 @@
       "notes": "Set up the WhatsApp group for Badhon's saree page project and get him into it, the same way the other client groups are run. He has already given page access and the page link.",
       "createdAt": "2026-11-27T07:59:45.816Z",
       "updatedAt": "2026-11-27T07:59:45.816Z"
+    },
+    {
+      "id": "t_aff77b07",
+      "project": "trendbrobd",
+      "title": "Fix the problems found in TrendBroBD testing and connect the client today",
+      "status": "next",
+      "due": "2026-11-27",
+      "estimate": "3-4h",
+      "notes": "TrendBroBD client. Setup is done and testing is done; the test pass surfaced several problems. Fix all of them today, then connect the client. Nothing should go live with the known issues open.",
+      "createdAt": "2026-11-27T08:01:14.116Z",
+      "updatedAt": "2026-11-27T08:01:14.116Z"
     }
   ],
   "ideas": [
