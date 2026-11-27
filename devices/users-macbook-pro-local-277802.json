@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-27T06:00:30.486Z",
+  "writtenAt": "2026-11-27T07:56:54.433Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -202,9 +202,10 @@
       "title": "Make a tutorial video for City Online's customers on how to use the location-cover app",
       "status": "inbox",
       "estimate": "4h",
-      "notes": "City Online is a HelloShop client. Their own customers cannot properly use the location-cover app we built, so we need an instructional / tutorial video showing how to use it. Delivery: send the video to them over Messenger. Open inputs: app name and flow, whether the video needs Bangla voiceover, and what exactly customers get wrong.",
+      "notes": "City Online is a HelloShop client. Their own customers cannot properly use the location-cover app we built, so we need an instructional / tutorial video showing how to use it. Delivery: send the video to them over Messenger. Must be done today, 2026-11-27. Open inputs: app name and flow, whether the video needs Bangla voiceover, and what exactly customers get wrong.",
       "createdAt": "2026-11-26T08:12:38.904Z",
-      "updatedAt": "2026-11-26T08:12:38.904Z"
+      "updatedAt": "2026-11-27T07:56:54.433Z",
+      "due": "2026-11-27"
     },
     {
       "id": "t_f3d0c949",
