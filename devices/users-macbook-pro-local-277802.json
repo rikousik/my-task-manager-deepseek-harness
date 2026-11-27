@@ -1,17 +1,17 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-26T18:13:59.281Z",
+  "writtenAt": "2026-11-27T06:00:30.486Z",
   "projects": [
     {
       "id": "helloshop-ai",
       "name": "HelloShop AI",
       "client": "",
       "stage": "active",
-      "nextAction": "Call HM Rafayet and confirm the sale.",
-      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline incoming (2026-11-26): four new leads — Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday. Call order confirmed by Kousik: Swarna, then Rafayet, then Raju, then Hriday. Status: Swarna reached on WhatsApp — she sells from her personal profile, not a page, so no chatbot can be connected; she will contact us after she creates a Facebook page. Raju reached on WhatsApp — his cosmetics business is in Noakhali, he will tell us later when he will take the service. Rafayet called, no answer, needs a retry. Hriday reached on the third attempt — he was busy and asked to be called after 8pm today.\n\nOther calls (2026-11-26): Tanim Fashion (Tanim) — no answer, retry or WhatsApp needed. Nur Islam Shop (Nur Islam) — phone was off; action changed to adding him to our WhatsApp group within 2-3 days.\n\nSyed Aminul Islam Jamil — client onboarding. Spoke 2026-11-26 while he was at the thana; he asked to be reached on WhatsApp. He will start his business online and is currently explaining everything to us — he needs two to three days for that. Page access is in hand; remaining business account access still outstanding. Setup starts after his walkthrough; check back 2026-11-29.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team. A recurring blocker: some leads sell from a personal profile and have no page at all, so page creation is the prerequisite for the chatbot, not an optional extra.\n\nClient: Alishan Apu — existing HelloShop client, sells ebooks. Called 2026-11-26. Wants Facebook boosting through us, AI-generated cartoon animation videos for her ebook, and our AI chatbot connected. All of it starts from ~2026-12-07; contact her again around that date to begin.\n\nClient: Ashraful bhai — dairy shop plus dairy farm, sells milk; wants to sell ghee and cheese online. Reached on WhatsApp 2026-11-26; added to a WhatsApp group. He does not understand Facebook, so we deliver the whole stack: open his Facebook page, content plan, video editing, Facebook ad campaigns, then HelloShop AI chatbot automation. Work has not started yet; the team still needs the kickoff briefing.\n\nClient: City Online — their customers cannot use the location-cover app we built for them, so we owe them a tutorial video on using that app, delivered over Messenger.",
+      "nextAction": "Call Badhon and confirm the sale.",
+      "context": "Owner: Kousik. Active sales + client onboarding.\n\nLead pipeline, batch 1 (2026-11-26): Fatema Swarna, HM Rafayet, MD Raju, Rahman Hriday, called in that order. Swarna sells from her personal profile, no page, so no chatbot can be connected; she will contact us after she creates a page. Raju — cosmetics business in Noakhali, will say later when he takes the service. Rafayet — no answer on the first call, retry still owed. Hriday — reached on the third attempt, asked to be called after 8pm. Tanim Fashion (Tanim) — no answer, retry or WhatsApp owed. Nur Islam Shop — phone was off; instead add him to our WhatsApp group.\n\nLead pipeline, batch 2 (called from the night of 2026-11-26 into 2026-11-27): Farhad Khan, Sabyasachi Papan, Mehedi, Ibne Khalil, Badhon. Farhad already runs a page with regular videos/photos and decent organic reach, wants promotion plus chatbot support, somewhat confused — educate first. Sabyasachi was out in the car, will talk later. Mehedi already does business and will open a second page specifically for the AI chatbot; he will message after getting home, follow up if he does not. Ibne Khalil has not started his business yet and is unsure which service he needs; advised him to start first, then we connect the chatbot. Badhon has not been called yet.\n\nSyed Aminul Islam Jamil — client onboarding. Spoke 2026-11-26 while he was at the thana; asked to be reached on WhatsApp. He will start his business online and is explaining everything to us; needs two to three days. Page access in hand, remaining account access outstanding. Setup starts after his walkthrough; check back 2026-11-29.\n\nProduct/rollout: the chatbot has to be connected to the Facebook page in HelloShop, after the TrendBroBD setup is tested by the team. A recurring blocker across leads: no Facebook page, or a personal profile only — page creation is the prerequisite for the chatbot, not an optional extra.\n\nClient: Alishan Apu — sells ebooks. Called 2026-11-26. Wants Facebook boosting, AI cartoon animation videos for her ebook, and our AI chatbot. Starts ~2026-12-07.\n\nClient: Ashraful bhai — dairy shop plus dairy farm, sells milk; wants to sell ghee and cheese online. Added to a WhatsApp group. He does not understand Facebook, so we deliver the whole stack: page, content plan, video editing, ads, then chatbot. Work not started; team needs the kickoff briefing.\n\nClient: City Online — their customers cannot use the location-cover app we built, so we owe a tutorial video, delivered over Messenger.",
       "createdAt": "2026-11-24T11:47:50.440Z",
-      "updatedAt": "2026-11-26T14:49:02.407Z"
+      "updatedAt": "2026-11-27T06:00:30.485Z"
     },
     {
       "id": "clarity-index",
@@ -70,12 +70,12 @@
       "id": "t_1ad98fd7",
       "project": "helloshop-ai",
       "title": "Call HM Rafayet and confirm the sale (new lead)",
-      "status": "next",
-      "due": "2026-11-26",
+      "status": "inbox",
+      "due": "2026-11-27",
       "estimate": "15m",
-      "notes": "Called 2026-11-26 (attempt 1) — he did not pick up. Call him again; no WhatsApp callback request was sent yet. Call order: 2 of 4.",
+      "notes": "Called 2026-11-26 (attempt 1) — he did not pick up. Still needs a retry; Badhon's call is carrying the project's next step for now. Call order: 2 of 4.",
       "createdAt": "2026-11-26T07:04:12.264Z",
-      "updatedAt": "2026-11-26T08:09:24.348Z"
+      "updatedAt": "2026-11-27T06:00:20.542Z"
     },
     {
       "id": "t_203a90ea",
@@ -223,6 +223,56 @@
       "notes": "File a General Diary (GD) at the police station to recover money sent through bKash. Needed for the GD application: bKash transaction ID(s), amount and date, the recipient number, any bKash complaint/ticket number, and the police station where it will be filed. Not tied to a project yet — say which one if it belongs to one.",
       "createdAt": "2026-11-26T18:13:59.280Z",
       "updatedAt": "2026-11-26T18:13:59.280Z"
+    },
+    {
+      "id": "t_84b4efba",
+      "project": "helloshop-ai",
+      "title": "Call Badhon and confirm the sale (new lead, not called yet)",
+      "status": "next",
+      "due": "2026-11-27",
+      "estimate": "15m",
+      "notes": "Part of the batch of five prospects contacted since the night of 2026-11-26 (Farhad Khan, Sabyasachi Papan, Mehedi, Ibne Khalil, Badhon). Badhon is the only one not called yet — call him and confirm the sale.",
+      "createdAt": "2026-11-27T06:00:20.495Z",
+      "updatedAt": "2026-11-27T06:00:20.495Z"
+    },
+    {
+      "id": "t_2a8d436b",
+      "project": "helloshop-ai",
+      "title": "Follow up with Ibne Khalil once he starts his business, then connect the chatbot",
+      "status": "waiting",
+      "waitingOn": "Ibne Khalil — will start his business first",
+      "notes": "Spoke 2026-11-27. He has not started his business yet and is confused about what service he needs. Advised him: start the business first, then we connect the chatbot. Follow up once he launches.",
+      "createdAt": "2026-11-27T06:00:20.507Z",
+      "updatedAt": "2026-11-27T06:00:20.507Z"
+    },
+    {
+      "id": "t_ae25931f",
+      "project": "helloshop-ai",
+      "title": "Help Mehedi connect the AI chatbot to his new Facebook page",
+      "status": "waiting",
+      "waitingOn": "Mehedi — will message after he gets home",
+      "notes": "Mehedi already runs a business; he will open another Facebook page specifically to connect the AI chatbot. He said he would message us after he gets home. If he does not message, follow up with him. We need to help him connect the chatbot to that new page.",
+      "createdAt": "2026-11-27T06:00:20.519Z",
+      "updatedAt": "2026-11-27T06:00:20.519Z"
+    },
+    {
+      "id": "t_241e46ce",
+      "project": "helloshop-ai",
+      "title": "Call Sabyasachi Papan back about HelloShop",
+      "status": "waiting",
+      "waitingOn": "Sabyasachi Papan — will talk later (was out in the car)",
+      "notes": "Called 2026-11-27; he was out in the car and said he wants to talk later.",
+      "createdAt": "2026-11-27T06:00:20.526Z",
+      "updatedAt": "2026-11-27T06:00:20.526Z"
+    },
+    {
+      "id": "t_1c070a68",
+      "project": "helloshop-ai",
+      "title": "Talk to Farhad Khan: explain promotion and chatbot, then start his work",
+      "status": "inbox",
+      "notes": "Farhad Khan already runs an online page and posts videos, photos and reels regularly, with decent organic reach. He needs promotion support and chatbot support. He is somewhat confused about the options, so educate him first, then move ahead with the work.",
+      "createdAt": "2026-11-27T06:00:20.534Z",
+      "updatedAt": "2026-11-27T06:00:20.534Z"
     }
   ],
   "ideas": [
