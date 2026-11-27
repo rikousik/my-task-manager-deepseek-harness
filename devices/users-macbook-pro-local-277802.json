@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-27T07:59:22.314Z",
+  "writtenAt": "2026-11-27T07:59:45.816Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -282,9 +282,20 @@
       "title": "Set up Badhon's saree business page (12,000+ messages a month)",
       "status": "next",
       "estimate": "2h",
-      "notes": "Badhon runs a saree business with a saree page that receives more than 12,000 messages a month — a big client. Spoke with him 2026-11-27; set up their page. Given the message volume, the AI chatbot is the obvious next step after setup.",
+      "notes": "Badhon runs a saree business with a saree page that receives more than 12,000 messages a month — a big client. Spoke with him 2026-11-27. He has already given access to his page and shared the page link, so setup can start directly; no access chase needed. Given the message volume, the AI chatbot is the obvious next step after setup.",
       "createdAt": "2026-11-27T07:59:13.419Z",
-      "updatedAt": "2026-11-27T07:59:13.419Z"
+      "updatedAt": "2026-11-27T07:59:45.806Z"
+    },
+    {
+      "id": "t_35f59fcc",
+      "project": "helloshop-ai",
+      "title": "Open the WhatsApp group for Badhon's saree page",
+      "status": "inbox",
+      "due": "2026-11-27",
+      "estimate": "10m",
+      "notes": "Set up the WhatsApp group for Badhon's saree page project and get him into it, the same way the other client groups are run. He has already given page access and the page link.",
+      "createdAt": "2026-11-27T07:59:45.816Z",
+      "updatedAt": "2026-11-27T07:59:45.816Z"
     }
   ],
   "ideas": [
