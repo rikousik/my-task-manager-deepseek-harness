@@ -1,7 +1,7 @@
 {
   "version": 2,
   "device": "users-macbook-pro-local-277802",
-  "writtenAt": "2026-11-27T15:18:03.104Z",
+  "writtenAt": "2026-11-28T07:21:53.599Z",
   "projects": [
     {
       "id": "helloshop-ai",
@@ -42,6 +42,16 @@
       "context": "Client: Big Fish. They have already shared their website design (roughly settled) and an idea for the direction. Work: build the website to match that design and send it back to them. Pending as of 2026-11-26; the build has not started.",
       "createdAt": "2026-11-26T08:48:45.246Z",
       "updatedAt": "2026-11-26T08:48:45.245Z"
+    },
+    {
+      "id": "ইন্টারভিউ-বই-প্রমো-ভিডিও",
+      "name": "ইন্টারভিউ বই প্রমো ভিডিও",
+      "client": "",
+      "stage": "active",
+      "nextAction": "Write the promo video script from the book brief",
+      "context": "Book: \"চাকরি পেতে চান? ইন্টারভিউ জেতার বাস্তব কৌশল\" by আল ফালাহ রহমান (©2026), 45 pages, Bengali, 10 chapters + 50 model answers + STAR/answer formula. Target readers: freshers, job seekers, career switchers, online-interview candidates. Tone: direct \"তুমি\" address, encouraging, mother dedication. Deliverable: Bengali promotional video (short-form).",
+      "createdAt": "2026-11-28T07:21:53.588Z",
+      "updatedAt": "2026-11-28T07:21:53.599Z"
     }
   ],
   "tasks": [
@@ -330,6 +340,15 @@
       "notes": "Called twice on 2026-11-27 — he did not pick up either time. Retry to confirm the sale. Note: this is a different person from Rahman Hriday; do not merge the two records.",
       "createdAt": "2026-11-27T15:18:03.091Z",
       "updatedAt": "2026-11-27T15:18:03.091Z"
+    },
+    {
+      "id": "t_88ef0f59",
+      "project": "ইন্টারভিউ-বই-প্রমো-ভিডিও",
+      "title": "Draft promo video script for the book \"চাকরি পেতে চান? ইন্টারভিউ জেতার বাস্তব কৌশল\" (আল ফালাহ রহমান)",
+      "status": "next",
+      "notes": "Book read in full (45 pages, 10 chapters + 50 Q&A). Summary/brief given in chat on 2026-11-28. Next: pick hook + write 30s/60s script versions.",
+      "createdAt": "2026-11-28T07:21:53.588Z",
+      "updatedAt": "2026-11-28T07:21:53.588Z"
     }
   ],
   "ideas": [
